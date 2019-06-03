@@ -1,0 +1,25 @@
+INFO 2019-03-20 12:26:01,740 - Second string
+INFO 2019-03-20 12:26:09,891 - Second string
+DEBUG 2019-03-20 12:27:40,319 - This is just a debug string
+INFO 2019-03-20 12:27:40,320 - Some useful info
+WARNING 2019-03-20 12:27:40,320 - I'm sorry, but something might go wrong
+ERROR 2019-03-20 12:27:40,320 - Uh oh!  Here is an error
+CRITICAL 2019-03-20 12:27:40,320 - Did you shut down the internet!?!
+DEBUG 2019-03-20 12:34:01,882 - This is just a debug string
+INFO 2019-03-20 12:34:01,882 - Some useful info
+WARNING 2019-03-20 12:34:01,883 - I'm sorry, but something might go wrong
+ERROR 2019-03-20 12:34:01,883 - Uh oh!  Here is an error
+CRITICAL 2019-03-20 12:34:01,883 - Did you shut down the internet!?!
+INFO 2019-03-20 12:34:01,883 - quadratic formula(1, 0, 4)
+DEBUG 2019-03-20 12:35:12,728 - This is just a debug string
+INFO 2019-03-20 12:35:12,728 - Some useful info
+WARNING 2019-03-20 12:35:12,728 - I'm sorry, but something might go wrong
+ERROR 2019-03-20 12:35:12,728 - Uh oh!  Here is an error
+CRITICAL 2019-03-20 12:35:12,728 - Did you shut down the internet!?!
+INFO 2019-03-20 12:35:12,729 - quadratic formula(1, 0, 4)
+DEBUG 2019-03-20 12:35:27,588 - This is just a debug string
+INFO 2019-03-20 12:35:27,588 - Some useful info
+WARNING 2019-03-20 12:35:27,588 - I'm sorry, but something might go wrong
+ERROR 2019-03-20 12:35:27,588 - Uh oh!  Here is an error
+CRITICAL 2019-03-20 12:35:27,588 - Did you shut down the internet!?!
+INFO 2019-03-20 12:35:27,588 - quadratic formula(1, 0, -4)
